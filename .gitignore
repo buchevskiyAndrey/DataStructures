@@ -1,0 +1,10 @@
+AppDelegate.swift
+SceneDelegate.swift
+ViewController.swift
+*.storyboard
+Base.Iproj
+Info.plist
+Assets.xcassets
+*.xcodeproj/
+*.xcworkspace/
+.DS_Store
